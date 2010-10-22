@@ -1,0 +1,39 @@
+# For add new project use the follow command:
+# git add .
+# For updates use:
+# git add -u 
+
+
+*~
+*.bak
+*.old
+*.lnk
+*\#
+*.temp
+*.tmp
+
+# Sound Forge metafile
+*.sfk
+
+Library
+Temp
+obj
+*/obj
+bin
+*/bin
+
+Assets/Temp/*
+Assets/Temp.meta
+
+# hyperlua
+*.lc
+
+
+*.Resharper
+*.Resharper.user
+*.csproj
+*.sln
+*.suo
+
+
+
