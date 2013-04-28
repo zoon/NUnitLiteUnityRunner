@@ -1,8 +1,25 @@
-NUnitLite Test Runnrer for Unity3D 3.0
+Abandoned!
+--------------------------------------
+new version here: [nunit-unity3d](https://github.com/zoon/nunit-unity3d)
 ======================================
 
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+ 
+NUnitLite Test Runnrer for Unity3D 3.0
+
 Overview
---------
 
 This is a test runner for [NUnitLite][1], that redirects test results
 to [Unity3D][2] console.
